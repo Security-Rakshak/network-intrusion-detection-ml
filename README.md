@@ -138,10 +138,10 @@ Which characteristics of a network connection are most useful for distinguishing
 - Matplotlib
 - Machine Learning
 - Network Security
-
+  
 ## Repository Structure
 
-
+```text
 network-intrusion-detection-ml/
 │
 ├── data/
@@ -162,19 +162,25 @@ network-intrusion-detection-ml/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+```
 
 Key Learning Areas
 
 Through this project, I explored:
 
-Multi-class machine learning classification
-Network intrusion detection
-Cybersecurity dataset analysis
-Class imbalance
-Feature engineering
-Model evaluation
-Security-focused machine learning
-Feature importance and explainability
+## Key Learning Areas
+
+Through this project, I explored:
+
+- Multi-class machine learning classification
+- Network intrusion detection
+- Cybersecurity dataset analysis
+- Class imbalance
+- Feature engineering
+- Model evaluation
+- Security-focused machine learning
+- Feature importance and explainability
+  
 Results
 
 Detailed model performance and visualisations will be added as the project is documented and refined.
