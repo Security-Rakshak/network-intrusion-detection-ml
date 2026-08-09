@@ -129,18 +129,19 @@ This helps answer an important question:
 
 Which characteristics of a network connection are most useful for distinguishing legitimate activity from different categories of attacks?
 
-Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Machine Learning
-Network Security
+## Technologies Used
 
-Repository Structure
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Machine Learning
+- Network Security
 
-The repository will be organised as follows:
+## Repository Structure
+
+
 network-intrusion-detection-ml/
 │
 ├── data/
