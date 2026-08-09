@@ -64,7 +64,7 @@ The dataset represents network connections labelled as either normal activity or
 
 The project follows the following workflow:
 
-```text
+
 Dataset
    ↓
 Exploratory Data Analysis
