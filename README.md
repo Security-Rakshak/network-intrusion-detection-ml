@@ -1,6 +1,6 @@
-# network-intrusion-detection-ml
-Multi-class network intrusion detection using machine learning to classify normal traffic and DoS, Probe, R2L and U2R attacks.
 # Multi-Class Network Intrusion Detection using Machine Learning
+
+Multi-class network intrusion detection using machine learning to classify normal traffic and DoS, Probe, R2L and U2R attacks.
 
 ## Overview
 
